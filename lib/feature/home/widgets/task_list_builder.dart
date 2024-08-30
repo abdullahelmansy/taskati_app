@@ -67,7 +67,7 @@ class _TaskListBuilderState extends State<TaskListBuilder> {
                           'No Task Add yet',
                           style: getBodyTextStyle(
                             context,
-                            color: AppColors.whiteColor,
+                            color: AppColors.primaryColor,
                           ),
                         )
                       ],
